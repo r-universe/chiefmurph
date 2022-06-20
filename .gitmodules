@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mondate"]
+	path = mondate
+	url = https://github.com/chiefmurph/mondate
+	shallow = true
+	registered = true
